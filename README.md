@@ -6,7 +6,7 @@ This project implements a **Binary Expression Tree (BET)** in C++, capable of co
 **Tech Used:**  
 C++ (C++11), Standard Template Library (STL) for optional supporting structures
 
-**Key Features**
+**Key Features:**
 - Build a binary expression tree from a postfix expression of integers.
 - Print infix expressions with correct parentheses and operator precedence.
 - Print postfix expressions.
