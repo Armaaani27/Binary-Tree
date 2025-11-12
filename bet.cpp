@@ -1,10 +1,3 @@
-/*
-Armani Ruiz
-arj22c
-Xian Mallory, COP4530
-Assignment 3
-*/
-
 #include <iostream>
 #include <stack>
 #include <string>
